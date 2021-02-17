@@ -1,0 +1,10 @@
+cpu.v
+cpu_tb.v
+dmem.v
+imem.v
+biu.v
+display.v
+alu.v
+control.v
+regfile.v
+mem.v
